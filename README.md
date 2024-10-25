@@ -18,7 +18,7 @@ If you fork and use any of the code in the repository, you must:
 > Disclose Source Code
 > Use the same License and Copyright Notice
 
-The License and Copyright Notice allows you to:
+The License and Copyright Notice allows:
 > Commercial, Non-Commercial, Public/Private Use
 > Modification
 > Distribution
