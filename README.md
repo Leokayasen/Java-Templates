@@ -1,13 +1,8 @@
 # Java Templates
 A series of templates and example code for various modules in Java
 
-`src/Dialog` - This folder contains examples using the Javax.Swing library for *Popups* and *Save/Open* Dialogs
-
-`src/Menu` - This folder contains examples using JFrame to create an interactive and usable menu bar
-
-`src/Form` - This folder contains examples using Javax.Swing to create a form/quizz app with a score output
-
-`src/Polymorphism` - This folder contains examples of the OOP Polymorphism concept in Java
+This `Code-Review` Branch is specifically for users to send issue requests for me to review their code.
+Approved code will be added and pushed to `main` branch.
 
 ```
 All code provided is protected by the GNU Public License v3.0
