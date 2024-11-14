@@ -1,6 +1,8 @@
 # Java Templates
 A series of templates and example code for various modules in Java
 
+Start by looking in the `src` folder, to see the contents of this Template Library.
+
 `src/Dialog` - This folder contains examples using the Javax.Swing library for *Popups* and *Save/Open* Dialogs
 
 `src/Menu` - This folder contains examples using JFrame to create an interactive and usable menu bar
@@ -8,6 +10,10 @@ A series of templates and example code for various modules in Java
 `src/Form` - This folder contains examples using Javax.Swing to create a form/quizz app with a score output
 
 `src/Polymorphism` - This folder contains examples of the OOP Polymorphism concept in Java
+
+`src/Inheritance` - This folder contains examples of the OOP Inheritance concept in Java
+
+`src/Encapsulation` - This folder contains examples of the OOP Encapsulation concept in Java (a modified version of the example in `src/Inheritance`
 
 ```
 All code provided is protected by the GNU Public License v3.0
