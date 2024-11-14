@@ -13,7 +13,7 @@ Start by looking in the `src` folder, to see the contents of this Template Libra
 
 `src/Inheritance` - This folder contains examples of the OOP Inheritance concept in Java
 
-`src/Encapsulation` - This folder contains examples of the OOP Encapsulation concept in Java (a modified version of the example in `src/Inheritance`
+`src/Encapsulation` - This folder contains examples of the OOP Encapsulation concept in Java
 
 ```
 All code provided is protected by the GNU Public License v3.0
